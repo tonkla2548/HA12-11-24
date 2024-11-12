@@ -2,9 +2,9 @@
 using namespace std;
 
 int main(){
-    int age;
-    cout << "How old are you";
-    cin >> age;
-    cout << "your old is" << age << "year ";
+    int prices;
+    cout << "How much fish per kilo?";
+    cin >> prices;
+    cout << "The fish is" << prices << "baht per kilo";
 
 }
